@@ -2,33 +2,5 @@
 title: Home
 ---
 
-# Workshop Template!
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
-
-A minimal Jekyll theme for creating workshop websites.
-
-*Add your workshop abstract here!*
-
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
-
-*See also:* [workshop-template-b](https://evanwill.github.io/workshop-template-b/), Bootstrap version.
-
-<div class="toc" markdown="1">
-## Contents:
-
-{% for lesson in site.pages %}
-{% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | relative_url }}){% endif %}
-{% endfor %}
-</div>
-
-Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
- 
-> built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
->
-> images and content: cc-by-sa <a href="https://github.com/{{ site.github_username }}">{{ site.author }}</a> {{ site.pub_year}} (get [source code]({{ site.repo }})).
-> Last build date: {{ site.time | date: "%Y-%m-%d" }}.
->
-> <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Creative Commons License" /></a>
+Welcome to the forefront of ethical AI innovation! In recent decades, Artificial Intelligence (AI) has experienced an unprecedented surge, marked by the development of intricate machine learning models boasting vast parameter counts. Yet, alongside this growth looms a critical concern: the presence of biases within these models, perpetuating disparities and ethical dilemmas. The scientific community has increasingly turned its focus towards understanding and addressing model bias, as evidenced by a significant uptick in research across various disciplines. This surge coincides with the impending European Union's AI Act, emphasizing ethics, transparency, and accountability in AI systems. In response to these pressing challenges, we present the workshop proposal, "FAILED: Fairness and Ethics in AI: Facing the Challenge through Model Debiasing." This initiative aims to convene experts and practitioners from diverse backgrounds to explore innovative strategies for rectifying biases and promoting fairness and transparency in AI systems, particularly in the domain of Computer Vision. By fostering interdisciplinary discussions and sharing cutting-edge solutions, FAILED seeks to propel advancements in building unbiased and fair AI models. Join us in this collaborative endeavor to shape a future where AI serves as a force for equity and inclusivity. Together, let's pave the way towards a more ethical and fair AI landscape. Join us at FAILED, a satellite workshop of ECCV 2024, and be a part of this transformative journey.
