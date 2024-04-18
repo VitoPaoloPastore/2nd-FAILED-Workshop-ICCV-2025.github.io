@@ -14,9 +14,9 @@ description: "Workshop at the European Conference on Computer Vision 2024"
 keywords: "Fairness, Bias, Debiasing, Computer Vision"
 
 # author settings for cc-by, appears in the footer
-author: evan will
-pub_year: 2018
-github_username: evanwill
+# author: evan will
+# pub_year: 2018
+# github_username: evanwill
 
 # add the full url for the github repository
 repo: "https://github.com/FAILED-workshop-ECCV-2024/site"
