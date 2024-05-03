@@ -27,7 +27,7 @@ repo: "https://github.com/FAILED-workshop-ECCV-2024.github.io"
 url: https://failed-workshop-eccv-2024.github.io
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
-baseurl: /site
+baseurl: /FAILED-workshop-ECCV-2024.github.io
 
 # add google analytics if desired (optional)
 # if blank, it will be ignored
