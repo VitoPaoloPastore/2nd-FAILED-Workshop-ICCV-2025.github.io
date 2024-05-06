@@ -6,7 +6,6 @@ nav: true
 ### Organizing Committee
 
 ### ![Vito Paolo Pastore](https://scholar.google.com/citations?user=-boYCXcAAAAJ&hl=it)
-<img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=-boYCXcAAAAJ&citpid=5" alt="Vito Paolo Pastore" height="150" align="left">
 {% include figure.html img="VPP.png" alt="Vito Paolo Pastore" width="150" height ="150" align="left" %}
 VPP is an assistant professor at the Machine Learning Genoa Center (MaLGa), DIBRIS, University of Genova. He obtained a PhD in bioengineering and robotics in 2018 at the University of Genova. From 2018 to 2020 he was a postdoc at IBM Research Almaden, working on machine learning for cellular image analysis, and from 2020 to 2022 he was a postdoc at the Istituto Italiano di Tecnologia in Genova, working on visual perception for robotics. His main research interests include learning with imperfect data, unsupervised learning, model debiasing, machine learning, and deep learning for biological and medical imaging, industrial applications, and machine learning for biosensing.
 
