@@ -1,6 +1,7 @@
 ---
-Home
---
+title: Home
+nav: true
+---
 {% include figure.html img="logo_final.png" alt="logo" width="50%" %}
 
 <div style="text-align: justify">
