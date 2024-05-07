@@ -3,7 +3,7 @@ title: Organizing & Technical Committee
 nav: true
 ---
 
-### Organizing Committee
+## Organizing Committee
 
 ### [Vito Paolo Pastore](https://scholar.google.com/citations?user=-boYCXcAAAAJ&hl=it)
 {% include figure.html img="VPP.png" alt="Vito Paolo Pastore" width="150" height ="150" align="left" %}
@@ -12,9 +12,9 @@ VPP is an assistant professor at the Machine Learning Genoa Center (MaLGa), DIBR
 ---
 
 ### [Enzo Tartaglione](https://enzotarta.github.io/)
-<img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=uKuvN64AAAAJ&citpid=3" alt="Enzo Tartaglione" width="150" height="150" align="left">
+<img src="https://enzotarta.github.io/assets/img/foto_recentequadrata.png" alt="Enzo Tartaglione" width="150" height="150" align="left">
 
-ET is Maître de conférences at Télécom Paris and he is an Hi!Paris chair holder. He is also Member of the ELLIS Society and Associate Editor of IEEE Transactions on Neural Networks and Learning Systems. In 2019, he obtained a PhD in Physics at Politecnico di Torino. From 2019 to 2021 he was a postdoc at University of Turin, working on computer vision for medical applications and neural network's compression. His principal interests include compression, sparsification, pruning, and watermarking of deep neural networks, deep learning for medical imaging, privacy-aware learning, data debiasing, and regularization for deep learning.
+ET is Maître de Conférences at Télécom Paris and he is an Hi!Paris chair holder. He is also Member of the ELLIS Society, Senior IEEE Member and Associate Editor of IEEE Transactions on Neural Networks and Learning Systems. In 2019, he obtained a PhD in Physics at Politecnico di Torino. From 2019 to 2021 he was a postdoc at University of Turin, working on computer vision for medical applications and neural network's compression. His principal interests include compression, sparsification, pruning, and watermarking of deep neural networks, deep learning for medical imaging, privacy-aware learning, data debiasing, and regularization for deep learning.
 
 ---
 
@@ -28,6 +28,6 @@ Finally, prof. Murino is an IEEE Fellow, IAPR Fellow, and ELLIS Fellow.
 
 
 
-### Technical Committee
+## Technical Committee
 
 TBD.
