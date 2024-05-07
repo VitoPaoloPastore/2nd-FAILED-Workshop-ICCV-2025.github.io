@@ -1,9 +1,9 @@
 ---
-title: Keynote speakers
+title: Keynote Speakers
 nav: true
 ---
 
-# Keynote speakers
+# Keynote Speakers
 
 ### [Olga Russakovsky](https://www.cs.princeton.edu/~olgarus/)
 <img src="https://www.cs.princeton.edu/~olgarus/photos/OlgaRussakovsky.JPG" alt="Olga Russakovsky" width="150" height="150" align="left">
