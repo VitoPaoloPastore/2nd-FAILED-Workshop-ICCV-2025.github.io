@@ -1,9 +1,9 @@
 ---
-title: Call for papers
+title: Call for Papers
 nav: true
 ---
 
-# Call for papers
+# Call for Papers
 
 We welcome the submissions of original and high-quality papers including (but not limited) to the following topics:
 
@@ -20,3 +20,6 @@ We welcome the submissions of original and high-quality papers including (but no
 * Bias evaluation and performance on relevant domains of application;
 * Pruning for model debiasing;
 * Brave new ideas for learning with biased data and fairness.
+
+## Submission format
+TBD.
