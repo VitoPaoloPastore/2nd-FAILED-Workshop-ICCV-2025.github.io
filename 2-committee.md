@@ -10,7 +10,7 @@ nav: true
 
 
 ### [Enzo Tartaglione](https://enzotarta.github.io/)
-<img src="https://enzotarta.github.io/assets/img/foto_recentequadrata.png" alt="Enzo Tartaglione" width="150" height="150" align="left">
+<img padding-left:2000px src="https://enzotarta.github.io/assets/img/foto_recentequadrata.png" alt="Enzo Tartaglione" width="150" height="150" align="left" hspace="20"/>
 
 
 ### [Vittorio Murino](https://www.vittoriomurino.com/)
