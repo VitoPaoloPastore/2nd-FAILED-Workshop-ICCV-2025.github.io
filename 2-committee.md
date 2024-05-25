@@ -7,7 +7,7 @@ nav: true
 
 <p align="middle"> 
     <div style="display: inline-block; text-align: center;">
-        <a href="https://scholar.google.com/citations?user=-boYCXcAAAAJ&hl=it" style="text-decoration:none;">Vito Paolo Pastore</a>
+        <a href="https://vitopaolopastore.github.io/" style="text-decoration:none;">Vito Paolo Pastore</a>
         <br>
         {% include figure.html img="rect3.png" alt="Vito Paolo Pastore" width="150" height="150" align="left" %}
     </div>
