@@ -26,6 +26,7 @@ We welcome the submissions of original and high-quality papers including (but no
 * Regular Paper and Extended abstract submission deadline: **8th July 2024**
 * Decision to Authors: **July, 31th 2024**
 * Camera-ready papers due: **August, 15th 2024**
+  
 ## Submission format
 
 We welcome submissions in two formats: regular papers and extended abstracts. 
