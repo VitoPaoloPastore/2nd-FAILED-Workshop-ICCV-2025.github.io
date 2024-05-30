@@ -8,8 +8,8 @@
 
 # Site settings
 # title appears in the header
-title: "1st workshop on Fairness and ethics towards transparent AI:"
-subtitle: "facing the chalLEnge through model Debiasing (FAILED)"
+title: "Fairness and ethics towards transparent AI:facing the chalLEnge through model Debiasing (FAILED)"
+subtitle: "Workshop at ECCV 2024, Milan, Italy"
 # description and keywords for meta tags
 description: "Workshop at the European Conference on Computer Vision 2024"
 keywords: "Fairness, Bias, Debiasing, Computer Vision"
