@@ -26,6 +26,10 @@ We welcome the submissions of original and high-quality papers including (but no
 * Regular Paper and Extended abstract submission deadline: **8th July 2024**
 * Decision to Authors: **July, 31th 2024**
 * Camera-ready papers due: **August, 15th 2024**
+
+## How to submit
+
+* Submissions are currently open, click [**here**](https://cmt3.research.microsoft.com/FAILED2024) to submit
   
 ## Submission format
 
