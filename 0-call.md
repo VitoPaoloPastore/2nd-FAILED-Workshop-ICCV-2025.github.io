@@ -27,7 +27,7 @@ We welcome the submissions of original and high-quality papers including (but no
 * Decision to Authors: **July, 31th 2024**
 * Camera-ready papers due: **August, 15th 2024**
 
-## How to submit
+## Submission portal
 
 * Submissions are currently open, click [**here**](https://cmt3.research.microsoft.com/FAILED2024) to submit
   
