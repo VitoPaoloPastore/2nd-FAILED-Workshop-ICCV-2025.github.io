@@ -8,6 +8,6 @@ nav: true
 
 ![sched](https://github.com/user-attachments/assets/4a976846-2d44-45ad-8bcf-b57545c7fb17)
 
-* VENUE: [Mico Milano](https://www.micomilano.it/it).
+* VENUE: [Mico Milano](https://www.micomilano.it/it), **Suite 6**
 
    
