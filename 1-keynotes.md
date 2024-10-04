@@ -25,7 +25,7 @@ Slides are available <a href="https://www.dropbox.com/s/3e2wzl0n0ghlrxf/NewFairn
 
 **Talk Title:** Towards Trustworthy AI
 
-Slides are available <a href="https://politoit-my.sharepoint.com/:b:/g/personal/tatiana_tommasi_polito_it/EXstr_CYxJ5Ch6y4drMpsykBZXN68FMhkqnZUH_XJN4sIw"> here </a>
+Slides are available <a href="https://drive.google.com/file/d/1_YEL41iLDcBOYn1Ep0OilqcvAohy4tO7/view?usp=share_link"> here </a>
 
 </br>
 
