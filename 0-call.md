@@ -23,13 +23,13 @@ We welcome the submissions of original and high-quality papers including (but no
 
 ## Important dates
 
-* Regular Paper and Extended abstract submission deadline: **8th July 2024** (11:59 PM AoE)
-* Decision to Authors: **31st July 2024**
-* Camera-ready papers due: ~~August, 15th 2024~~ **31th August 2024** (11:59 PM AoE)
+* Regular Paper and Extended abstract submission deadline: **30th June 2025** (11:59 PM AoE)
+* Decision to Authors: **5th August 2024** (11:59 PM AoE)
+* Camera-ready papers due: **TBD** 
 
 ## Submission portal
 
-* Submissions are currently open, click [**here**](https://cmt3.research.microsoft.com/FAILED2024) to submit
+* Submission site will be open soon 
   
 ## Submission format
 
@@ -42,7 +42,7 @@ All submissions (both regular paper and extended abstract) will undergo peer rev
 
 * Regular paper must be original research that has not been previously published or accepted for publication in a substantially similar form in any peer-reviewed venue including journals, conferences, workshops, or archival forums.
 
-* Regular paper submission policies and format must adhere to the [ECCV submission guidelines](https://eccv.ecva.net/Conferences/2024/SubmissionPolicies) and should be up to **14 pages**. 
+* Regular paper submission policies and format must adhere to the [ICCV submission guidelines](https://iccv.thecvf.com/Conferences/2025/AuthorGuidelines) and should be up to **8 pages**. 
 
 * Accepted regular papers will be featured in the ECCV Workshop Proceedings.
 

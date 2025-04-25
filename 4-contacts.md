@@ -5,4 +5,4 @@ nav: true
 
 ### Contacts
 
-failed-workshop@googlegroups.com
+failed-workshop-iccv2025@googlegroups.com

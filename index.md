@@ -2,7 +2,7 @@
 title: Home
 nav: false
 ---
-{% include figure.html img="logo_final second.svg" alt="logo" width="50%" %}
+{% include figure.html img="LOGO failed second.svg" alt="logo" width="80%" %}
 
 <div style="text-align: justify">
 

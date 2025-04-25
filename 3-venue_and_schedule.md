@@ -4,10 +4,8 @@ nav: true
 ---
 ### Venue and Schedule
 
-* The FAILED workshop is scheduled for the 29th of September, starting at 9 AM.
+* 19-20 October 2025 (TBD)
 
-![sched](https://github.com/user-attachments/assets/4a976846-2d44-45ad-8bcf-b57545c7fb17)
-
-* VENUE: [Mico Milano](https://www.micomilano.it/it), **Suite 6**
+* VENUE: Honolulu Convention Center, Honolulu, Hawaii, USA, 
 
    
