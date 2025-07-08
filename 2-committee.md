@@ -35,4 +35,15 @@ nav: true
 
 ## Technical Committee
 
-TBD.
+- Massimiliano Ciranni, University of Genoa;
+- Roberto Di Via, University of Genoa;
+- Nikil Patel, University of Oxford;
+- Michela Gravina, University of Naples Federico II;
+- Remi Nahon, Télécom Paris Institut Polytechnique de Paris;
+- Ivan Luiz De Moura Matos, Télécom Paris Institut Polytechnique de Paris,;
+- Carlo Alberto Barbano, University of Turin;
+- Daniele Berardini, Istituto Italiano di Tecnologia;
+- Allison Clement, University of Oxford;
+- Julian Wyatt, University of Oxford;
+- Paolo Angella, University of Genoa;
+- Gabriele Spadaro, University of Turin.
