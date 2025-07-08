@@ -4,7 +4,7 @@ nav: true
 ---
 ### Venue and Schedule
 
-* 19-20 October 2025 (TBD)
+* 20 October 2025 
 
 * VENUE: Honolulu Convention Center, Honolulu, Hawaii, USA, 
 
