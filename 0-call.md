@@ -25,7 +25,7 @@ We welcome the submissions of original and high-quality papers including (but no
 
 * Regular Paper and Extended abstract submission deadline: **26th June 2025** (11:59 PM CET)
 * Decision to Authors: **11th July 2025** (11:59 PM CET)
-* Camera-ready papers due: **31th July 2025** 
+* Camera-ready papers due: **18th August 2025** (11:59 PM PST) 
 
 ## Submission portal
 
